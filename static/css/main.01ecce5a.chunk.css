@@ -1,2 +1,0 @@
-.row{display:flex;justify-content:space-between;flex-direction:row;max-width:150px}.column{flex-direction:row-reverse;max-width:180px}.column,.text{display:flex;align-items:center}.text{justify-content:center;height:75px;border:2px solid #000;border-left:0}.button,.text{background-color:#faebd7;box-sizing:border-box}.button{border-right:0;height:25px}.button:hover{background-color:rgba(250,235,215,.5215686274509804)}
-/*# sourceMappingURL=main.01ecce5a.chunk.css.map */
